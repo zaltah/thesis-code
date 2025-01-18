@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 data/Cleaned_Patents.csv
+optional/.ipynb_checkpoints/
+optional/data/
+data/company/organization_descriptions.csv
+data/company/organizations.csv
